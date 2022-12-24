@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e4262d10-88c8-c24f-dd8b-90ade8a0c011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InputSystem.RebindingUI", "Unity.InputSystem.RebindingUI.csproj", "{6d7a250d-eb66-8043-515a-5980521e29df}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e4262d10-88c8-c24f-dd8b-90ade8a0c011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e4262d10-88c8-c24f-dd8b-90ade8a0c011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6d7a250d-eb66-8043-515a-5980521e29df}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6d7a250d-eb66-8043-515a-5980521e29df}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

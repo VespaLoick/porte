@@ -49,6 +49,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "attraper",
+                    "type": "Button",
+                    "id": "8ebb620f-51e2-4a46-b776-f8720727309c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -113,7 +122,7 @@
                     "path": "<Pointer>/delta",
                     "interactions": "",
                     "processors": "",
-                    "groups": ";Keyboard&Mouse;Touch",
+                    "groups": "Keyboard&Mouse;Joystick",
                     "action": "regarde",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -159,6 +168,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "se_baisser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b7904869-912f-4277-b2f6-263f94948e28",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "attraper",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
