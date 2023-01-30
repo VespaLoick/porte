@@ -1,0 +1,34 @@
+{
+    "name": "carte_de_control",
+    "maps": [
+        {
+            "name": "control",
+            "id": "96d81ac0-3903-41ef-a9b6-7f69fd7452fc",
+            "actions": [
+                {
+                    "name": "testaction",
+                    "type": "Button",
+                    "id": "7ee2ba8f-2476-4574-8699-77b9b2c611f6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "70a04157-e964-4c9f-a71b-7a220291e32c",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "testaction",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
